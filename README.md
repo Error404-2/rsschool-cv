@@ -1,1 +1,1 @@
-https://Error404-2.github.io/rsschool-cv/cv
+https://Error404-2.github.io/rsschool-cv/
