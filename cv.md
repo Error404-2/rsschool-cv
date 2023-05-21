@@ -17,9 +17,9 @@ _15 years of experience in sales, career from manager to commercial director (sa
 ##### At the moment I decided to get acquainted with:
 - [x] Python (basics, OOP) 
 - [x] github (basics)
-- [ ] html
-- [ ] css
-- [ ] javascript
+- [х] html
+- [х] css
+- [х] javascript
 - [ ] sql
 - [ ] php
 
